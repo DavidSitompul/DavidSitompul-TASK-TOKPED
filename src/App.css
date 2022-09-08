@@ -6,6 +6,19 @@
   height: 40vmin;
   pointer-events: none;
 }
+.kartu {
+  display: flex;
+  margin-top: 50px;
+}
+/* .button {
+  background-color: #61dafb;
+  position: absolute;
+  bottom: 100px;
+} */
+
+.logo {
+  margin-top: 15px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
